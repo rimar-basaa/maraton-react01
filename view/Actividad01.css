@@ -1,0 +1,17 @@
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+}
+.caja {
+    width: 30%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1rem;
+    color: white;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
