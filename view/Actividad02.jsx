@@ -9,7 +9,14 @@ function Actividad02() {
 
     const incrementar = (e) => {
        e.target.innerHTML = Number(e.target.innerHTML) + 1;
-       //e.target.style.backgroundColor = 'red';
+       if (e.target.innerHTML > 7) {
+        e.target.style.backgroundColor = 'red';        
+       };
+       if (e.target.innerHTML > 9) {
+        e.target.innerHTML = 1;
+        e.target.style.backgroundColor = 'green';        
+       }
+       
     };
 
     const conversor = () => {
@@ -17,7 +24,11 @@ function Actividad02() {
     };
 
     const cambiar = (e) => {
-        e.target.src=imagen1;
+        if (e.target.src.includes('bruja')){
+            e.target.src=imagen1;
+        } else {
+            e.target.src=imagen0;
+        };        
     };
 
     const editar = (e) => {
