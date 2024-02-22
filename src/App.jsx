@@ -7,8 +7,8 @@ function App() {
 
   return (
     <div>
-      {/* <Actividad01 /> */}
-      <Actividad02 />
+      <Actividad01 />
+      {/* <Actividad02 /> */}
 
 
            
