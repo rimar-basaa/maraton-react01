@@ -5,6 +5,9 @@ const Actividad03 = () => {
 
     const [nombre,setNombre] = useState('rimar');
     const [contador,setContador] = useState(0);
+    const [num1,setNum1] = useState();
+    const [num2,setNum2] = useState();
+    const [resultado,setResultado] = useState();
 
     const cambiar = () => {
         if (nombre == 'rimar') {
@@ -13,7 +16,7 @@ const Actividad03 = () => {
             setNombre('rimar')
         };
     };
-
+// contador
     const disminuir = () => {
         setContador(contador - 1);
     };
@@ -24,6 +27,17 @@ const Actividad03 = () => {
 
     const reset = () => {
         setContador(0);
+    };
+// sumador
+    const modifica1 = (e) => {
+        setNum1(e.target.value);
+    };
+    const modifica2 = (e) => {
+        setNum2(e.target.value);
+    };
+
+    const sumar = () => {
+        setResultado(Number(num1) + Number(num2));
     };
 
     return (
@@ -38,6 +52,15 @@ const Actividad03 = () => {
             <button onClick={disminuir} >Disminuir</button>
             <button onClick={aumentar} >Aumentar</button>
             <button onClick={reset} >Reset</button>
+            <hr />
+
+            <div className="sumador">
+                <input type="number" value={num1} onChange={modifica1} /> +
+                <input type="number" value={num2} onChange={modifica2} /> =
+                <input type="number" value={resultado} readOnly />
+                <button onClick={sumar} className="btnSumar">Sumar</button>
+            </div>
+            
         </div>
     );
 };

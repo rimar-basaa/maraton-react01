@@ -4,3 +4,29 @@
 .counter {
     font-size: 3rem;
 }
+input {
+    width: 100px;
+    line-height: 3rem;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 2rem;
+    text-align: center;
+    outline: none;
+}
+.sumador {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;    
+}
+.btnSumar {
+    background-color: royalblue;
+    color: white;
+    line-height: 3rem;
+    margin: 5px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
