@@ -1,0 +1,8 @@
+.main {
+    color: white;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
+}
