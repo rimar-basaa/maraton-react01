@@ -6,6 +6,7 @@ import Actividad04 from '../view/Actividad04';
 import Actividad05 from '../view/Actividad05';
 import Actividad06 from '../view/Actividad06';
 import Actividad07 from '../view/Actividad07';
+import Actividad08 from '../view/Actividad08';
 
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
       {/* <Actividad04 /> */}
       {/* <Actividad05 /> */}
       {/* <Actividad06 /> */}
-      <Actividad07 />
+      {/* <Actividad07 /> */}
+      <Actividad08 />
 
 
            
