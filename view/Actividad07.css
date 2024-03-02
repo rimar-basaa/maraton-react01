@@ -12,3 +12,10 @@
 .rojo {
     color: red;
 }
+.btnErase {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: royalblue;
+    color: white;
+}
