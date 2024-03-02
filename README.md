@@ -5,3 +5,4 @@ Maraton React01 - reactivacion de conceptos.
 - Actividad05 practica componente basico
 - Actividad06 practica componente con props
 - Actividad07 practica componente con map
+- Actividad08 practica API con Fetch y useEffect
