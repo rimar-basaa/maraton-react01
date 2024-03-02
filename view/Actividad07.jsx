@@ -12,7 +12,7 @@ const Actividad07 = () => {
             nombre:"hulk",
             poder:"fuerza"
         },{
-            nombre:"ironman",
+            nombre:"iroman",
             poder:"tecnologia"
         },{
             nombre:"loki",
@@ -25,10 +25,12 @@ const Actividad07 = () => {
             poder:"magia"
         }
       ];
+    
 
     const tags = avengers.map(hero =>
         <div className="tag" key={hero.nombre}> 
-        <p>El superheroe <span>{hero.nombre}</span> su principal poder es la <span>{hero.poder}</span></p>
+        <p>El superheroe <span className='rojo'>{hero.nombre.toUpperCase()}</span> su principal poder es la <span>{hero.poder}</span></p>
+        <img src={"../src/img/kid-" + hero.nombre + "-removebg.png"} alt="" />
         </div>
     );
 
