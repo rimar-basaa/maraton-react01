@@ -19,7 +19,7 @@ _[Ir a la Tienda...](https://tienda-libros-final-front.onrender.com/)_
 7. [Conclusiones](#conclusiones) _Pendiente_
 
 
-## Presentacion y prototipo
+## Presentacion y Prototipo
 - [Link de descargar de documento PDF:](https://tienda-libros-final-front.onrender.com/)
 
 ## Desarrollo del Frontend
