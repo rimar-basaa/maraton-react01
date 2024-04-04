@@ -367,4 +367,15 @@ experiencia fluida y confiable.
 
 ### Credenciales para Uso
 
+Si bien usted puede crear su propia cuenta de Usuario, aqui le proporcionamos 2 cuentas ya creadas que puede usar ahora mismo:
+- Cuenta de Usuario Normal:
+  ```code
+  user : juan.carrasco@gmail.com
+  pass : carrasco
+  ```
+- Cuenta de Usuario Administrador:
+  ```code
+  user : pablo.neruda@gmail.com
+  pass : neruda
+  ```
   
