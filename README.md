@@ -1,6 +1,8 @@
 # Tienda de Libros
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-orange)
 
+Desarrolladores: _Felipe Saavedra - Ricardo Barrientos_
+
 ### Indice
 1. [Propuesta](#propuesta)
 2. [Desarrollo del frontend](#desarrollo-del-frontend)
@@ -350,10 +352,9 @@ PORT=3000
 
 ## Integracion y Despliegue
   
-Este cuarto hito marca un paso crucial en el proyecto, ya que implica la integración y despliegue de todos sus componentes en internet. El Frontend, el Backend y la   
-base de datos PostgreSQL.
+Este cuarto hito marca un paso crucial en el proyecto, ya que implica la integración y despliegue de todos sus componentes en internet. El Frontend, el Backend y la base de datos PostgreSQL.
     
-Para lograr este objetivo, se optó por utilizar una plataforma de servicio en la nube, como Render, que facilitó el proceso de despliegue y garantizó un entorno estable 
+Para lograr este objetivo, se optó por utilizar una plataforma de servicio en la nube, como [Render](https://render.com/), que facilitó el proceso de despliegue y garantizó un entorno estable 
 y escalable para nuestra aplicación.
     
 Durante este proceso, se llevaron a cabo pruebas exhaustivas de todas las funcionalidades del proyecto desde la aplicación cliente. Se verificó la persistencia de datos 
