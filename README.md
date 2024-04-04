@@ -4,7 +4,8 @@
 
 **Desarrolladores :** _Felipe Saavedra - Ricardo Barrientos_
 
-[Ir a la Tienda](https://tienda-libros-final-front.onrender.com/)
+_[Ir a la Tienda...](https://tienda-libros-final-front.onrender.com/)_
+
 
 ### Indice
 1. [Presentacion y prototipo](#presentacion-y-prototipo)
