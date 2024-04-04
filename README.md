@@ -50,9 +50,9 @@ Con estos pasos, logramos desarrollar un backend sólido y confiable que cumpli�
 
 ### Consideraciones
 
-- En la raiz del repositorio se encuentra la carpeta script_bd donde está el archivo con las querys para creacion de base de datos y tablas
+- En la raiz del repositorio se encuentra la carpeta [ script_bd ] donde está el archivo con las querys para creacion de base de datos y tablas
 
-- En la raiz del repositorio se encuentra la carpeta script_bd con los archivos para cargar la informacion base del sitio web, Libros, Autores, Editoriales, Generos y Usuarios (cliente y admin)
+- En la raiz del repositorio se encuentra la carpeta [ script_bd ] con los archivos para cargar la informacion base del sitio web, Libros, Autores, Editoriales, Generos y Usuarios (cliente y admin)
 
 - El registro de usuario solo permite crear un usuario del tipo Usuario (cliente), para crear un usuario Admin, se debe asignar el rol de administrador al usuario, desde la base de datos
 
