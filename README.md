@@ -1,7 +1,7 @@
 # Tienda de Libros
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-orange)
 
-Desarrolladores: _Felipe Saavedra - Ricardo Barrientos_
+**Desarrolladores:** _Felipe Saavedra - Ricardo Barrientos_
 
 ### Indice
 1. [Propuesta](#propuesta)
@@ -10,8 +10,8 @@ Desarrolladores: _Felipe Saavedra - Ricardo Barrientos_
     - [Consideraciones](#consideraciones)
     - [API - Documentación de rutas](#api-documentacion-de-rutas)
 4. [Integracion y despliegue](#integracion-y-despliegue)
-5. [Presentación de Proyecto](#presentación-de-proyecto)
-6. [Conclusiones](#conclusiones)
+5. [Presentación de Proyecto](#presentación-de-proyecto) _Pendiente_
+6. [Conclusiones](#conclusiones) _Pendiente_
 
 ## Desarrollo del Frontend
 
@@ -354,8 +354,7 @@ PORT=3000
   
 Este cuarto hito marca un paso crucial en el proyecto, ya que implica la integración y despliegue de todos sus componentes en internet. El Frontend, el Backend y la base de datos PostgreSQL.
     
-Para lograr este objetivo, se optó por utilizar una plataforma de servicio en la nube, como [Render](https://render.com/), que facilitó el proceso de despliegue y garantizó un entorno estable 
-y escalable para nuestra aplicación.
+Para lograr este objetivo, se optó por utilizar una plataforma de servicio en la nube, como [Render](https://render.com/), que facilitó el proceso de despliegue tanto de Frontend, Backend y Base Datos garantizando un entorno estable y escalable para nuestra aplicación.
     
 Durante este proceso, se llevaron a cabo pruebas exhaustivas de todas las funcionalidades del proyecto desde la aplicación cliente. Se verificó la persistencia de datos 
 y el correcto consumo de las API desde el backend, asegurando que todas las interacciones funcionaran según lo esperado.
@@ -365,5 +364,7 @@ disponibilidad de la información necesaria para el correcto funcionamiento de l
     
 Con la integración y despliegue exitosos de todos los componentes en internet, el proyecto está listo para ser utilizado por los usuarios finales, ofreciendo una 
 experiencia fluida y confiable.
+
+### Credenciales para Uso
 
   
