@@ -1,10 +1,13 @@
 # Tienda de Libros
+
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-orange)
 
-**Desarrolladores:** _Felipe Saavedra - Ricardo Barrientos_
+**Desarrolladores :** _Felipe Saavedra - Ricardo Barrientos_
+
+[Ir a la Tienda](https://tienda-libros-final-front.onrender.com/)
 
 ### Indice
-1. [Propuesta](#propuesta)
+1. [Presentacion y prototipo](#presentacion-y-prototipo)
 2. [Desarrollo del frontend](#desarrollo-del-frontend)
 3. [Desarrollo del Backend](#desarrollo-del-backend)
     - [Consideraciones](#consideraciones)
@@ -13,6 +16,10 @@
     - [Credenciales para Uso](#credenciales-para-uso)
 6. [Presentación de Proyecto](#presentación-de-proyecto) _Pendiente_
 7. [Conclusiones](#conclusiones) _Pendiente_
+
+
+## Presentacion y prototipo
+- [Link de descargar de documento PDF:](https://tienda-libros-final-front.onrender.com/)
 
 ## Desarrollo del Frontend
 
