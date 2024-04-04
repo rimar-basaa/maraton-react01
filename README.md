@@ -10,8 +10,9 @@
     - [Consideraciones](#consideraciones)
     - [API - Documentación de rutas](#api-documentacion-de-rutas)
 4. [Integracion y despliegue](#integracion-y-despliegue)
-5. [Presentación de Proyecto](#presentación-de-proyecto) _Pendiente_
-6. [Conclusiones](#conclusiones) _Pendiente_
+    - [Credenciales para Uso](#credenciales-para-uso)
+6. [Presentación de Proyecto](#presentación-de-proyecto) _Pendiente_
+7. [Conclusiones](#conclusiones) _Pendiente_
 
 ## Desarrollo del Frontend
 
