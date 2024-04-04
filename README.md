@@ -7,7 +7,7 @@
 3. [Desarrollo del Backend](#desarrollo-del-backend)
     - [Consideraciones](#consideraciones)
     - [API - Documentación de rutas](#api-documentacion-de-rutas)
-4. [Implementación](#implementación)
+4. [Integracion y despliegue](#integracion-y-despliegue)
 5. [Presentación de Proyecto](#presentación-de-proyecto)
 6. [Conclusiones](#conclusiones)
 
@@ -346,3 +346,23 @@ PORT=3000
   ```javascript
   http://localhost:3000/libros/1
   ```
+
+
+## Integracion y Despliegue
+  
+Este cuarto hito marca un paso crucial en el proyecto, ya que implica la integración y despliegue de todos sus componentes en internet. El Frontend, el Backend y la   
+base de datos PostgreSQL.
+    
+Para lograr este objetivo, se optó por utilizar una plataforma de servicio en la nube, como Render, que facilitó el proceso de despliegue y garantizó un entorno estable 
+y escalable para nuestra aplicación.
+    
+Durante este proceso, se llevaron a cabo pruebas exhaustivas de todas las funcionalidades del proyecto desde la aplicación cliente. Se verificó la persistencia de datos 
+y el correcto consumo de las API desde el backend, asegurando que todas las interacciones funcionaran según lo esperado.
+    
+Posteriormente, se confirmó que en el servicio elegido para la base de datos, estuvieran gestionando efectivamente todos los datos, garantizando la integridad y 
+disponibilidad de la información necesaria para el correcto funcionamiento de la aplicación.
+    
+Con la integración y despliegue exitosos de todos los componentes en internet, el proyecto está listo para ser utilizado por los usuarios finales, ofreciendo una 
+experiencia fluida y confiable.
+
+  
