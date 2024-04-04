@@ -256,7 +256,7 @@ PORT=3000
   ```
 
 
-- **ATENCION:** Las siguientes 3 rutas requieren que el Token sea de un usuario con rol de administrador. Para obtener este Token use la ruta POST: /login con las siguientes credenciales.
+- **ATENCION :** Las siguientes 3 rutas requieren que el Token sea de un usuario con rol de administrador. Para obtener este Token use la ruta POST: /login con las siguientes credenciales.
 
   ```json
   {
