@@ -282,9 +282,9 @@ PORT=3000
       "precio": 10000,
       "stock": 100,
       "destacado": false,
-      "id_autor": 1,
-      "id_editorial": 1,
-      "id_genero": 1
+      "autor": "autor",
+      "editorial": "editorial",
+      "genero": "genero"
     }
   ]
   ```
